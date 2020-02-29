@@ -2,7 +2,7 @@
   "name": "hawkeye",
   "version": "0.0.1",
   "description": "A application that helps you create and manage citations for a research paper or other project.",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "npx ts-node ."
   },
