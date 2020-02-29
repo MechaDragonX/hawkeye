@@ -1,0 +1,19 @@
+{
+  "name": "hawkeye",
+  "version": "0.0.1",
+  "description": "A application that helps you create and manage citations for a research paper or other project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MechaDragonX/hawekeye.git"
+  },
+  "author": "Raghav Vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MechaDragonX/hawekeye/issues"
+  },
+  "homepage": "https://github.com/MechaDragonX/hawekeye#readme"
+}
