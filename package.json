@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MechaDragonX/hawekeye/issues"
   },
-  "homepage": "https://github.com/MechaDragonX/hawekeye#readme"
+  "homepage": "https://github.com/MechaDragonX/hawekeye#readme",
+  "dependencies": {
+    "@types/node": "^13.7.7",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
 }
