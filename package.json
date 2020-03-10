@@ -4,7 +4,7 @@
   "description": "A application that helps you create and manage citations for a research paper or other project.",
   "main": "index.ts",
   "scripts": {
-    "test": "npx ts-node ."
+    "test": "ts-node src"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,10 @@
   "homepage": "https://github.com/MechaDragonX/hawekeye#readme",
   "dependencies": {
     "@types/node": "^13.7.7",
+    "amplify": "0.0.11",
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "express-form-data": "^2.0.11",
     "express-handlebars": "^3.1.0"
   }
 }
