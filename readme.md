@@ -4,7 +4,7 @@
 Hawkeye is a reference citation creation and management tool. I intend to only support the Modern Language Association 8th Edition (MLA8) standards for now.
 
 ## How do I run it?
-This project is written in TypeScript which compiles in a Node.js environment to JS. Make sure to install the `typescript` and `ts-node` packages to allow the project to run and then install all the packages specified in the `package.json`. Here are the commands you'll need:
+This project is written in TypeScript which compiles in a Node.js environment to JS. Make sure to install the [`typescript`](https://www.typescriptlang.org/) and [`ts-node`](https://www.npmjs.com/package/ts-node) packages to allow the project to run and then install all the packages specified in the `package.json`. Here are the commands you'll need:
 ```shell
 $ npm install -g typscript
 $ npm install -g ts-node
